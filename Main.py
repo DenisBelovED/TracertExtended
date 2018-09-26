@@ -1,4 +1,4 @@
-from ipwhois import IPWhois, IPDefinedError
+from ipwhois import IPWhois
 import subprocess
 import re
 
